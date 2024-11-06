@@ -2,7 +2,7 @@
 
 ## Links
 
-- [GitHub](https://github.com/brunosimon/my-room-in-3d)
+- [GitHub](https://github.com/shiny7star/my-room-in-3d)
 - [Live](https://my-room-in-3d.vercel.app)
 
 ## Setup
@@ -13,10 +13,16 @@ Run this followed commands:
 ``` bash
 # Install dependencies (only the first time)
 npm install
+or
+yarn install
 
 # Run the local server at localhost:8080
 npm run dev
+or
+yarn dev
 
 # Build for production in the dist/ directory
 npm run build
+or
+yarn build
 ```
